@@ -2,6 +2,8 @@
 Minecraft fabric mod that expands the HUD.
 Currently supports Minecraft 1.17.1-1.19.4
 
+[![Big Things are Coming](https://www.youtube.com/watch?v=kEl_om1-2wA/default.jpg)](https://www.youtube.com/watch?v=kEl_om1-2wA)
+
 Download at: https://www.curseforge.com/minecraft/mc-mods/double-hotbar
 
 # Features
